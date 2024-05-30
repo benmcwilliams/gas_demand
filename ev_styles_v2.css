@@ -6,10 +6,9 @@ body {
     margin: 0;
     font-family: Arial;
     background-color: #f4f4f4;
-    font-color: #f4f4f4;
 }
 .container {
-    width: 70%;
+    width: 40%;
     max-width: 1200px;
     min-width: 300px;
     background-color: #fff;
