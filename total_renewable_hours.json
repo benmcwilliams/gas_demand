@@ -1,0 +1,72 @@
+{
+    "countries": [
+        {
+            "name": "Austria",
+            "total_hours_2024": 1656
+        },
+        {
+            "name": "Belgium",
+            "total_hours_2024": 137
+        },
+        {
+            "name": "Bulgaria",
+            "total_hours_2024": 387
+        },
+        {
+            "name": "Denmark",
+            "total_hours_2024": 1273
+        },
+        {
+            "name": "Spain",
+            "total_hours_2024": 1178
+        },
+        {
+            "name": "Finland",
+            "total_hours_2024": 338
+        },
+        {
+            "name": "France",
+            "total_hours_2024": 3123
+        },
+        {
+            "name": "Greece",
+            "total_hours_2024": 148
+        },
+        {
+            "name": "Croatia",
+            "total_hours_2024": 69
+        },
+        {
+            "name": "Hungary",
+            "total_hours_2024": 295
+        },
+        {
+            "name": "Lithuania",
+            "total_hours_2024": 148
+        },
+        {
+            "name": "Latvia",
+            "total_hours_2024": 1643
+        },
+        {
+            "name": "Norway",
+            "total_hours_2024": 2382
+        },
+        {
+            "name": "Romania",
+            "total_hours_2024": 86
+        },
+        {
+            "name": "Sweden",
+            "total_hours_2024": 3102
+        },
+        {
+            "name": "Slovenia",
+            "total_hours_2024": 31
+        },
+        {
+            "name": "Slovakia",
+            "total_hours_2024": 2103
+        }
+    ]
+}
