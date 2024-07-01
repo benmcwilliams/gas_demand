@@ -1,0 +1,2322 @@
+[
+    {
+        "country": "Latvia",
+        "sector": "Agriculture",
+        "value": 0.0769859857835569
+    },
+    {
+        "country": "Latvia",
+        "sector": "Chemical",
+        "value": 0.338136347070971
+    },
+    {
+        "country": "Latvia",
+        "sector": "Food",
+        "value": 0.354699953236825
+    },
+    {
+        "country": "Latvia",
+        "sector": "Households",
+        "value": 0.128266333493905
+    },
+    {
+        "country": "Latvia",
+        "sector": "Iron and steel",
+        "value": 0.775667580141482
+    },
+    {
+        "country": "Latvia",
+        "sector": "Metals",
+        "value": 0.763992869875222
+    },
+    {
+        "country": "Latvia",
+        "sector": "Minerals",
+        "value": 0.155326150100899
+    },
+    {
+        "country": "Latvia",
+        "sector": "Paper",
+        "value": 0.494951426604451
+    },
+    {
+        "country": "Latvia",
+        "sector": "Rail",
+        "value": 0.188701835331221
+    },
+    {
+        "country": "Latvia",
+        "sector": "Road",
+        "value": 0.002983884693127
+    },
+    {
+        "country": "Latvia",
+        "sector": "Services",
+        "value": 0.401109654350238
+    },
+    {
+        "country": "Latvia",
+        "sector": "Textile",
+        "value": 0.303869432165929
+    },
+    {
+        "country": "Latvia",
+        "sector": "Total energy",
+        "value": 0.145420305552918
+    },
+    {
+        "country": "Latvia",
+        "sector": "Total industry",
+        "value": 0.174936629164089
+    },
+    {
+        "country": "Latvia",
+        "sector": "Transport",
+        "value": 0.00851746636670011
+    },
+    {
+        "country": "Latvia",
+        "sector": "Wood",
+        "value": 0.125467140440379
+    },
+    {
+        "country": "Romania",
+        "sector": "Agriculture",
+        "value": 0.08267675900447
+    },
+    {
+        "country": "Romania",
+        "sector": "Chemical",
+        "value": 0.240337467501016
+    },
+    {
+        "country": "Romania",
+        "sector": "Food",
+        "value": 0.277399729047814
+    },
+    {
+        "country": "Romania",
+        "sector": "Households",
+        "value": 0.147005207288153
+    },
+    {
+        "country": "Romania",
+        "sector": "Iron and steel",
+        "value": 0.250427442669617
+    },
+    {
+        "country": "Romania",
+        "sector": "Metals",
+        "value": 0.624709236216455
+    },
+    {
+        "country": "Romania",
+        "sector": "Minerals",
+        "value": 0.148854413096206
+    },
+    {
+        "country": "Romania",
+        "sector": "Paper",
+        "value": 0.253951086325766
+    },
+    {
+        "country": "Romania",
+        "sector": "Rail",
+        "value": 0.448518101991223
+    },
+    {
+        "country": "Romania",
+        "sector": "Road",
+        "value": 0.00257124585360921
+    },
+    {
+        "country": "Romania",
+        "sector": "Services",
+        "value": 0.423469379937987
+    },
+    {
+        "country": "Romania",
+        "sector": "Textile",
+        "value": 0.422463949445455
+    },
+    {
+        "country": "Romania",
+        "sector": "Total energy",
+        "value": 0.153602810598828
+    },
+    {
+        "country": "Romania",
+        "sector": "Total industry",
+        "value": 0.271094284430923
+    },
+    {
+        "country": "Romania",
+        "sector": "Transport",
+        "value": 0.0139137603111898
+    },
+    {
+        "country": "Romania",
+        "sector": "Wood",
+        "value": 0.268900988212066
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Agriculture",
+        "value": 0.130305172673066
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Chemical",
+        "value": 0.217247017189513
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Food",
+        "value": 0.378823656892495
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Households",
+        "value": 0.181508945210688
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Iron and steel",
+        "value": 0.98220640569395
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Metals",
+        "value": null
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Minerals",
+        "value": 0.147485119008581
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Paper",
+        "value": 0.36217797876041
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Rail",
+        "value": 0.0364214761510467
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Road",
+        "value": 0.00244593545938309
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Services",
+        "value": 0.48166931273932
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Textile",
+        "value": 0.419413985459205
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Total energy",
+        "value": 0.170520551934029
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Total industry",
+        "value": 0.32397247586094
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Transport",
+        "value": 0.00375232895776896
+    },
+    {
+        "country": "Lithuania",
+        "sector": "Wood",
+        "value": 0.308914166704035
+    },
+    {
+        "country": "Poland",
+        "sector": "Agriculture",
+        "value": 0.0476011227008313
+    },
+    {
+        "country": "Poland",
+        "sector": "Chemical",
+        "value": 0.255982516605347
+    },
+    {
+        "country": "Poland",
+        "sector": "Food",
+        "value": 0.311515922634589
+    },
+    {
+        "country": "Poland",
+        "sector": "Households",
+        "value": 0.124276838202379
+    },
+    {
+        "country": "Poland",
+        "sector": "Iron and steel",
+        "value": 0.285833246436548
+    },
+    {
+        "country": "Poland",
+        "sector": "Metals",
+        "value": 0.375610934994058
+    },
+    {
+        "country": "Poland",
+        "sector": "Minerals",
+        "value": 0.167864077207361
+    },
+    {
+        "country": "Poland",
+        "sector": "Paper",
+        "value": 0.262255706874877
+    },
+    {
+        "country": "Poland",
+        "sector": "Rail",
+        "value": 0.760000247005797
+    },
+    {
+        "country": "Poland",
+        "sector": "Road",
+        "value": 0.000607814813935631
+    },
+    {
+        "country": "Poland",
+        "sector": "Services",
+        "value": 0.557646301771887
+    },
+    {
+        "country": "Poland",
+        "sector": "Textile",
+        "value": 0.430140808613038
+    },
+    {
+        "country": "Poland",
+        "sector": "Total energy",
+        "value": 0.170778521726747
+    },
+    {
+        "country": "Poland",
+        "sector": "Total industry",
+        "value": 0.303367402379774
+    },
+    {
+        "country": "Poland",
+        "sector": "Transport",
+        "value": 0.0126008692483248
+    },
+    {
+        "country": "Poland",
+        "sector": "Wood",
+        "value": 0.187181875972643
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Agriculture",
+        "value": 0.106899953753661
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Chemical",
+        "value": 0.778326781934632
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Food",
+        "value": 0.53521500350041
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Households",
+        "value": 0.180216862520242
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Iron and steel",
+        "value": 0.543963854431939
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Metals",
+        "value": null
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Minerals",
+        "value": 0.082775602637118
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Paper",
+        "value": 0.495405129437203
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Rail",
+        "value": 0.785961620088019
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Road",
+        "value": 0.00266418355138035
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Services",
+        "value": 0.352734104839638
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Textile",
+        "value": 0.588445972565452
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Total energy",
+        "value": 0.174207175750329
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Total industry",
+        "value": 0.491990230435128
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Transport",
+        "value": 0.0104358493984079
+    },
+    {
+        "country": "Luxembourg",
+        "sector": "Wood",
+        "value": 0.138295007808713
+    },
+    {
+        "country": "Hungary",
+        "sector": "Agriculture",
+        "value": 0.13782879649276
+    },
+    {
+        "country": "Hungary",
+        "sector": "Chemical",
+        "value": 0.280132666477987
+    },
+    {
+        "country": "Hungary",
+        "sector": "Food",
+        "value": 0.34194973452507
+    },
+    {
+        "country": "Hungary",
+        "sector": "Households",
+        "value": 0.182472728912762
+    },
+    {
+        "country": "Hungary",
+        "sector": "Iron and steel",
+        "value": 0.31337847961371
+    },
+    {
+        "country": "Hungary",
+        "sector": "Metals",
+        "value": 0.345718901453958
+    },
+    {
+        "country": "Hungary",
+        "sector": "Minerals",
+        "value": 0.231957456742675
+    },
+    {
+        "country": "Hungary",
+        "sector": "Paper",
+        "value": 0.313313100408347
+    },
+    {
+        "country": "Hungary",
+        "sector": "Rail",
+        "value": 0.743592291194538
+    },
+    {
+        "country": "Hungary",
+        "sector": "Road",
+        "value": 0.00205144568404077
+    },
+    {
+        "country": "Hungary",
+        "sector": "Services",
+        "value": 0.377762285889332
+    },
+    {
+        "country": "Hungary",
+        "sector": "Textile",
+        "value": 0.546749689700117
+    },
+    {
+        "country": "Hungary",
+        "sector": "Total energy",
+        "value": 0.197930138847039
+    },
+    {
+        "country": "Hungary",
+        "sector": "Total industry",
+        "value": 0.363341729282711
+    },
+    {
+        "country": "Hungary",
+        "sector": "Transport",
+        "value": 0.0212940677024598
+    },
+    {
+        "country": "Hungary",
+        "sector": "Wood",
+        "value": 0.304564195148699
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Agriculture",
+        "value": 0.135950048068052
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Chemical",
+        "value": 0.140539156816021
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Food",
+        "value": 0.29634635853752
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Households",
+        "value": 0.188547344330978
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Iron and steel",
+        "value": 0.168280094131003
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Metals",
+        "value": 0.754184867641739
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Minerals",
+        "value": 0.146178291209131
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Paper",
+        "value": 0.191545171468894
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Rail",
+        "value": 1.0
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Road",
+        "value": 0.000811787176867691
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Services",
+        "value": 0.416917517539358
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Textile",
+        "value": 0.520411491565302
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Total energy",
+        "value": 0.198328017630814
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Total industry",
+        "value": 0.269383653457919
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Transport",
+        "value": 0.0215610992255686
+    },
+    {
+        "country": "Slovakia",
+        "sector": "Wood",
+        "value": 0.326205080369234
+    },
+    {
+        "country": "Denmark",
+        "sector": "Agriculture",
+        "value": 0.255678707423151
+    },
+    {
+        "country": "Denmark",
+        "sector": "Chemical",
+        "value": 0.483768084448964
+    },
+    {
+        "country": "Denmark",
+        "sector": "Food",
+        "value": 0.373296469768057
+    },
+    {
+        "country": "Denmark",
+        "sector": "Households",
+        "value": 0.203246078408476
+    },
+    {
+        "country": "Denmark",
+        "sector": "Iron and steel",
+        "value": 0.427582203857842
+    },
+    {
+        "country": "Denmark",
+        "sector": "Metals",
+        "value": null
+    },
+    {
+        "country": "Denmark",
+        "sector": "Minerals",
+        "value": 0.138949410492196
+    },
+    {
+        "country": "Denmark",
+        "sector": "Paper",
+        "value": 0.483250918206364
+    },
+    {
+        "country": "Denmark",
+        "sector": "Rail",
+        "value": 0.423596039732397
+    },
+    {
+        "country": "Denmark",
+        "sector": "Road",
+        "value": 0.00898102153929671
+    },
+    {
+        "country": "Denmark",
+        "sector": "Services",
+        "value": 0.437811748293125
+    },
+    {
+        "country": "Denmark",
+        "sector": "Textile",
+        "value": 0.522912075385667
+    },
+    {
+        "country": "Denmark",
+        "sector": "Total energy",
+        "value": 0.201858717966463
+    },
+    {
+        "country": "Denmark",
+        "sector": "Total industry",
+        "value": 0.319347779018324
+    },
+    {
+        "country": "Denmark",
+        "sector": "Transport",
+        "value": 0.0191095875288981
+    },
+    {
+        "country": "Denmark",
+        "sector": "Wood",
+        "value": 0.309373604884846
+    },
+    {
+        "country": "Croatia",
+        "sector": "Agriculture",
+        "value": 0.0535886534957665
+    },
+    {
+        "country": "Croatia",
+        "sector": "Chemical",
+        "value": 0.277039516299973
+    },
+    {
+        "country": "Croatia",
+        "sector": "Food",
+        "value": 0.297537794389362
+    },
+    {
+        "country": "Croatia",
+        "sector": "Households",
+        "value": 0.243106927823496
+    },
+    {
+        "country": "Croatia",
+        "sector": "Iron and steel",
+        "value": 0.633761994358643
+    },
+    {
+        "country": "Croatia",
+        "sector": "Metals",
+        "value": 0.415776404689033
+    },
+    {
+        "country": "Croatia",
+        "sector": "Minerals",
+        "value": 0.162078485628817
+    },
+    {
+        "country": "Croatia",
+        "sector": "Paper",
+        "value": 0.252979650428119
+    },
+    {
+        "country": "Croatia",
+        "sector": "Rail",
+        "value": 0.581173345757314
+    },
+    {
+        "country": "Croatia",
+        "sector": "Road",
+        "value": 0.000490616792976362
+    },
+    {
+        "country": "Croatia",
+        "sector": "Services",
+        "value": 0.6292902712451101
+    },
+    {
+        "country": "Croatia",
+        "sector": "Textile",
+        "value": 0.523539769111544
+    },
+    {
+        "country": "Croatia",
+        "sector": "Total energy",
+        "value": 0.20788163245672
+    },
+    {
+        "country": "Croatia",
+        "sector": "Total industry",
+        "value": 0.260807940008916
+    },
+    {
+        "country": "Croatia",
+        "sector": "Transport",
+        "value": 0.0111035809048418
+    },
+    {
+        "country": "Croatia",
+        "sector": "Wood",
+        "value": 0.267922013714236
+    },
+    {
+        "country": "Czechia",
+        "sector": "Agriculture",
+        "value": 0.148882897628537
+    },
+    {
+        "country": "Czechia",
+        "sector": "Chemical",
+        "value": 0.252787614460806
+    },
+    {
+        "country": "Czechia",
+        "sector": "Food",
+        "value": 0.294769457497689
+    },
+    {
+        "country": "Czechia",
+        "sector": "Households",
+        "value": 0.188654453196972
+    },
+    {
+        "country": "Czechia",
+        "sector": "Iron and steel",
+        "value": 0.216476192715169
+    },
+    {
+        "country": "Czechia",
+        "sector": "Metals",
+        "value": 0.39500243620397
+    },
+    {
+        "country": "Czechia",
+        "sector": "Minerals",
+        "value": 0.191648216161436
+    },
+    {
+        "country": "Czechia",
+        "sector": "Paper",
+        "value": 0.257260564868601
+    },
+    {
+        "country": "Czechia",
+        "sector": "Rail",
+        "value": 0.634637965005886
+    },
+    {
+        "country": "Czechia",
+        "sector": "Road",
+        "value": 0.000933697743447314
+    },
+    {
+        "country": "Czechia",
+        "sector": "Services",
+        "value": 0.457972444757963
+    },
+    {
+        "country": "Czechia",
+        "sector": "Textile",
+        "value": 0.32768903499472
+    },
+    {
+        "country": "Czechia",
+        "sector": "Total energy",
+        "value": 0.208046382174624
+    },
+    {
+        "country": "Czechia",
+        "sector": "Total industry",
+        "value": 0.320884168894125
+    },
+    {
+        "country": "Czechia",
+        "sector": "Transport",
+        "value": 0.0219058604276949
+    },
+    {
+        "country": "Czechia",
+        "sector": "Wood",
+        "value": 0.230126596486726
+    },
+    {
+        "country": "Germany",
+        "sector": "Agriculture",
+        "value": 0.10423382822053
+    },
+    {
+        "country": "Germany",
+        "sector": "Chemical",
+        "value": 0.334732682015931
+    },
+    {
+        "country": "Germany",
+        "sector": "Food",
+        "value": 0.311208234313237
+    },
+    {
+        "country": "Germany",
+        "sector": "Households",
+        "value": 0.201428232639069
+    },
+    {
+        "country": "Germany",
+        "sector": "Iron and steel",
+        "value": 0.28801499788213
+    },
+    {
+        "country": "Germany",
+        "sector": "Metals",
+        "value": 0.572847018900954
+    },
+    {
+        "country": "Germany",
+        "sector": "Minerals",
+        "value": 0.163596431597392
+    },
+    {
+        "country": "Germany",
+        "sector": "Paper",
+        "value": 0.315715700989072
+    },
+    {
+        "country": "Germany",
+        "sector": "Rail",
+        "value": 0.788641285859805
+    },
+    {
+        "country": "Germany",
+        "sector": "Road",
+        "value": 0.00440026508333639
+    },
+    {
+        "country": "Germany",
+        "sector": "Services",
+        "value": 0.397029112471221
+    },
+    {
+        "country": "Germany",
+        "sector": "Textile",
+        "value": 0.414793464205494
+    },
+    {
+        "country": "Germany",
+        "sector": "Total energy",
+        "value": 0.21570145627959
+    },
+    {
+        "country": "Germany",
+        "sector": "Total industry",
+        "value": 0.333620630634945
+    },
+    {
+        "country": "Germany",
+        "sector": "Transport",
+        "value": 0.0239803746833093
+    },
+    {
+        "country": "Germany",
+        "sector": "Wood",
+        "value": 0.182100511688266
+    },
+    {
+        "country": "Belgium",
+        "sector": "Agriculture",
+        "value": 0.119234350600812
+    },
+    {
+        "country": "Belgium",
+        "sector": "Chemical",
+        "value": 0.327536134195959
+    },
+    {
+        "country": "Belgium",
+        "sector": "Food",
+        "value": 0.338509695562417
+    },
+    {
+        "country": "Belgium",
+        "sector": "Households",
+        "value": 0.191140118418219
+    },
+    {
+        "country": "Belgium",
+        "sector": "Iron and steel",
+        "value": 0.392035772041698
+    },
+    {
+        "country": "Belgium",
+        "sector": "Metals",
+        "value": 0.58856623794677
+    },
+    {
+        "country": "Belgium",
+        "sector": "Minerals",
+        "value": 0.162818508082366
+    },
+    {
+        "country": "Belgium",
+        "sector": "Paper",
+        "value": 0.264625081362732
+    },
+    {
+        "country": "Belgium",
+        "sector": "Rail",
+        "value": 0.843468405742405
+    },
+    {
+        "country": "Belgium",
+        "sector": "Road",
+        "value": 0.00491262729967919
+    },
+    {
+        "country": "Belgium",
+        "sector": "Services",
+        "value": 0.426932983181905
+    },
+    {
+        "country": "Belgium",
+        "sector": "Textile",
+        "value": 0.544375213326283
+    },
+    {
+        "country": "Belgium",
+        "sector": "Total energy",
+        "value": 0.216655404413285
+    },
+    {
+        "country": "Belgium",
+        "sector": "Total industry",
+        "value": 0.334343979862159
+    },
+    {
+        "country": "Belgium",
+        "sector": "Transport",
+        "value": 0.0211747336779343
+    },
+    {
+        "country": "Belgium",
+        "sector": "Wood",
+        "value": 0.195441473520188
+    },
+    {
+        "country": "Austria",
+        "sector": "Agriculture",
+        "value": 0.214662644919808
+    },
+    {
+        "country": "Austria",
+        "sector": "Chemical",
+        "value": 0.42146730657497
+    },
+    {
+        "country": "Austria",
+        "sector": "Food",
+        "value": 0.326336388319545
+    },
+    {
+        "country": "Austria",
+        "sector": "Households",
+        "value": 0.254519668358931
+    },
+    {
+        "country": "Austria",
+        "sector": "Iron and steel",
+        "value": 0.241665802524861
+    },
+    {
+        "country": "Austria",
+        "sector": "Metals",
+        "value": 0.435096049428945
+    },
+    {
+        "country": "Austria",
+        "sector": "Minerals",
+        "value": 0.192065703373761
+    },
+    {
+        "country": "Austria",
+        "sector": "Paper",
+        "value": 0.224300573564578
+    },
+    {
+        "country": "Austria",
+        "sector": "Rail",
+        "value": 0.844631724596924
+    },
+    {
+        "country": "Austria",
+        "sector": "Road",
+        "value": 0.0032795051362583
+    },
+    {
+        "country": "Austria",
+        "sector": "Services",
+        "value": 0.408622248284445
+    },
+    {
+        "country": "Austria",
+        "sector": "Textile",
+        "value": 0.393877258928369
+    },
+    {
+        "country": "Austria",
+        "sector": "Total energy",
+        "value": 0.221220369437185
+    },
+    {
+        "country": "Austria",
+        "sector": "Total industry",
+        "value": 0.311028888901527
+    },
+    {
+        "country": "Austria",
+        "sector": "Transport",
+        "value": 0.0385556964721566
+    },
+    {
+        "country": "Austria",
+        "sector": "Wood",
+        "value": 0.226873943655309
+    },
+    {
+        "country": "Italy",
+        "sector": "Agriculture",
+        "value": 0.188251627432527
+    },
+    {
+        "country": "Italy",
+        "sector": "Chemical",
+        "value": 0.35037668424354
+    },
+    {
+        "country": "Italy",
+        "sector": "Food",
+        "value": 0.435743444242366
+    },
+    {
+        "country": "Italy",
+        "sector": "Households",
+        "value": 0.185001549759299
+    },
+    {
+        "country": "Italy",
+        "sector": "Iron and steel",
+        "value": 0.447080585131566
+    },
+    {
+        "country": "Italy",
+        "sector": "Metals",
+        "value": 0.360192909370296
+    },
+    {
+        "country": "Italy",
+        "sector": "Minerals",
+        "value": 0.166192885801343
+    },
+    {
+        "country": "Italy",
+        "sector": "Paper",
+        "value": 0.305856759800316
+    },
+    {
+        "country": "Italy",
+        "sector": "Rail",
+        "value": 0.97693159157827
+    },
+    {
+        "country": "Italy",
+        "sector": "Road",
+        "value": 0.00150395266499214
+    },
+    {
+        "country": "Italy",
+        "sector": "Services",
+        "value": 0.506005831238086
+    },
+    {
+        "country": "Italy",
+        "sector": "Textile",
+        "value": 0.416962592085638
+    },
+    {
+        "country": "Italy",
+        "sector": "Total energy",
+        "value": 0.222756960466631
+    },
+    {
+        "country": "Italy",
+        "sector": "Total industry",
+        "value": 0.389786516561428
+    },
+    {
+        "country": "Italy",
+        "sector": "Transport",
+        "value": 0.0211148324781966
+    },
+    {
+        "country": "Italy",
+        "sector": "Wood",
+        "value": 0.40528608048683
+    },
+    {
+        "country": "Estonia",
+        "sector": "Agriculture",
+        "value": 0.129536600505643
+    },
+    {
+        "country": "Estonia",
+        "sector": "Chemical",
+        "value": 0.241229625277319
+    },
+    {
+        "country": "Estonia",
+        "sector": "Food",
+        "value": 0.492026330834608
+    },
+    {
+        "country": "Estonia",
+        "sector": "Households",
+        "value": 0.1754585756483
+    },
+    {
+        "country": "Estonia",
+        "sector": "Iron and steel",
+        "value": 0.752009184845005
+    },
+    {
+        "country": "Estonia",
+        "sector": "Metals",
+        "value": 1.0
+    },
+    {
+        "country": "Estonia",
+        "sector": "Minerals",
+        "value": 0.472235808470499
+    },
+    {
+        "country": "Estonia",
+        "sector": "Paper",
+        "value": 0.534153109764553
+    },
+    {
+        "country": "Estonia",
+        "sector": "Rail",
+        "value": 0.0781537341442442
+    },
+    {
+        "country": "Estonia",
+        "sector": "Road",
+        "value": 0.00208542658026327
+    },
+    {
+        "country": "Estonia",
+        "sector": "Services",
+        "value": 0.548623400808096
+    },
+    {
+        "country": "Estonia",
+        "sector": "Textile",
+        "value": 0.501857931070324
+    },
+    {
+        "country": "Estonia",
+        "sector": "Total energy",
+        "value": 0.225703734520507
+    },
+    {
+        "country": "Estonia",
+        "sector": "Total industry",
+        "value": 0.501071569005901
+    },
+    {
+        "country": "Estonia",
+        "sector": "Transport",
+        "value": 0.00329929826370006
+    },
+    {
+        "country": "Estonia",
+        "sector": "Wood",
+        "value": 0.659429380278394
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Agriculture",
+        "value": 0.204069254476162
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Chemical",
+        "value": 0.175948296770272
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Food",
+        "value": 0.301108876294667
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Households",
+        "value": 0.224526959306117
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Iron and steel",
+        "value": 0.221181619960253
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Metals",
+        "value": 0.615796849123105
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Minerals",
+        "value": 0.179597976337299
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Paper",
+        "value": 0.342015210051778
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Rail",
+        "value": 0.873922956634227
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Road",
+        "value": 0.0161763494266869
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Services",
+        "value": 0.507287657215607
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Textile",
+        "value": 0.3773634842999
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Total energy",
+        "value": 0.22654064623056
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Total industry",
+        "value": 0.240105971689215
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Transport",
+        "value": 0.0313277890550625
+    },
+    {
+        "country": "Netherlands",
+        "sector": "Wood",
+        "value": 0.368911616386013
+    },
+    {
+        "country": "EU",
+        "sector": "Agriculture",
+        "value": 0.15002270962932
+    },
+    {
+        "country": "EU",
+        "sector": "Chemical",
+        "value": 0.29932565303886
+    },
+    {
+        "country": "EU",
+        "sector": "Food",
+        "value": 0.354731541660171
+    },
+    {
+        "country": "EU",
+        "sector": "Households",
+        "value": 0.251027647457404
+    },
+    {
+        "country": "EU",
+        "sector": "Iron and steel",
+        "value": 0.367298411701073
+    },
+    {
+        "country": "EU",
+        "sector": "Metals",
+        "value": 0.521006944785999
+    },
+    {
+        "country": "EU",
+        "sector": "Minerals",
+        "value": 0.167225914807977
+    },
+    {
+        "country": "EU",
+        "sector": "Paper",
+        "value": 0.263720807348416
+    },
+    {
+        "country": "EU",
+        "sector": "Rail",
+        "value": 0.788708462237276
+    },
+    {
+        "country": "EU",
+        "sector": "Road",
+        "value": 0.00339604048332234
+    },
+    {
+        "country": "EU",
+        "sector": "Services",
+        "value": 0.505538227859243
+    },
+    {
+        "country": "EU",
+        "sector": "Textile",
+        "value": 0.429225672257731
+    },
+    {
+        "country": "EU",
+        "sector": "Total energy",
+        "value": 0.229776970132928
+    },
+    {
+        "country": "EU",
+        "sector": "Total industry",
+        "value": 0.332812852679965
+    },
+    {
+        "country": "EU",
+        "sector": "Transport",
+        "value": 0.0195468486268611
+    },
+    {
+        "country": "EU",
+        "sector": "Wood",
+        "value": 0.232962356780352
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Agriculture",
+        "value": 0.0291831621293244
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Chemical",
+        "value": 0.356233967398862
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Food",
+        "value": 0.361286489656329
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Households",
+        "value": 0.306580547638203
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Iron and steel",
+        "value": 0.43419067027178
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Metals",
+        "value": 0.465774595849985
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Minerals",
+        "value": 0.177147756830281
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Paper",
+        "value": 0.357345596719951
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Rail",
+        "value": 0.752978598906913
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Road",
+        "value": 0.00115096856217908
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Services",
+        "value": 0.617661659176287
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Textile",
+        "value": 0.504059093688918
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Total energy",
+        "value": 0.235858502315506
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Total industry",
+        "value": 0.400776949903682
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Transport",
+        "value": 0.0119815069950323
+    },
+    {
+        "country": "Slovenia",
+        "sector": "Wood",
+        "value": 0.251237746194902
+    },
+    {
+        "country": "Ireland",
+        "sector": "Agriculture",
+        "value": 0.137282940996219
+    },
+    {
+        "country": "Ireland",
+        "sector": "Chemical",
+        "value": 0.390087263322521
+    },
+    {
+        "country": "Ireland",
+        "sector": "Food",
+        "value": 0.212802222070763
+    },
+    {
+        "country": "Ireland",
+        "sector": "Households",
+        "value": 0.260975524941335
+    },
+    {
+        "country": "Ireland",
+        "sector": "Iron and steel",
+        "value": null
+    },
+    {
+        "country": "Ireland",
+        "sector": "Metals",
+        "value": 0.142937362527645
+    },
+    {
+        "country": "Ireland",
+        "sector": "Minerals",
+        "value": 0.157546628549633
+    },
+    {
+        "country": "Ireland",
+        "sector": "Paper",
+        "value": 0.49985540131696
+    },
+    {
+        "country": "Ireland",
+        "sector": "Rail",
+        "value": 0.0986591490092657
+    },
+    {
+        "country": "Ireland",
+        "sector": "Road",
+        "value": 0.00341700014001381
+    },
+    {
+        "country": "Ireland",
+        "sector": "Services",
+        "value": 0.686163165173623
+    },
+    {
+        "country": "Ireland",
+        "sector": "Textile",
+        "value": 0.330999674373168
+    },
+    {
+        "country": "Ireland",
+        "sector": "Total energy",
+        "value": 0.239240822522615
+    },
+    {
+        "country": "Ireland",
+        "sector": "Total industry",
+        "value": 0.275877571291886
+    },
+    {
+        "country": "Ireland",
+        "sector": "Transport",
+        "value": 0.0043243430149457
+    },
+    {
+        "country": "Ireland",
+        "sector": "Wood",
+        "value": 0.178529074954107
+    },
+    {
+        "country": "Spain",
+        "sector": "Agriculture",
+        "value": 0.167580555242156
+    },
+    {
+        "country": "Spain",
+        "sector": "Chemical",
+        "value": 0.316532154558465
+    },
+    {
+        "country": "Spain",
+        "sector": "Food",
+        "value": 0.374692540989926
+    },
+    {
+        "country": "Spain",
+        "sector": "Households",
+        "value": 0.442368182392693
+    },
+    {
+        "country": "Spain",
+        "sector": "Iron and steel",
+        "value": 0.549903923138924
+    },
+    {
+        "country": "Spain",
+        "sector": "Metals",
+        "value": 0.416987005248141
+    },
+    {
+        "country": "Spain",
+        "sector": "Minerals",
+        "value": 0.149230648842499
+    },
+    {
+        "country": "Spain",
+        "sector": "Paper",
+        "value": 0.295461566190953
+    },
+    {
+        "country": "Spain",
+        "sector": "Rail",
+        "value": 0.839481769635897
+    },
+    {
+        "country": "Spain",
+        "sector": "Road",
+        "value": 0.00159298188149373
+    },
+    {
+        "country": "Spain",
+        "sector": "Services",
+        "value": 0.600853697740853
+    },
+    {
+        "country": "Spain",
+        "sector": "Textile",
+        "value": 0.460648010024464
+    },
+    {
+        "country": "Spain",
+        "sector": "Total energy",
+        "value": 0.247735239740393
+    },
+    {
+        "country": "Spain",
+        "sector": "Total industry",
+        "value": 0.339457174100451
+    },
+    {
+        "country": "Spain",
+        "sector": "Transport",
+        "value": 0.0105370616415564
+    },
+    {
+        "country": "Spain",
+        "sector": "Wood",
+        "value": 0.223794782728882
+    },
+    {
+        "country": "Portugal",
+        "sector": "Agriculture",
+        "value": 0.208463547068857
+    },
+    {
+        "country": "Portugal",
+        "sector": "Chemical",
+        "value": 0.522521042179903
+    },
+    {
+        "country": "Portugal",
+        "sector": "Food",
+        "value": 0.386862798325534
+    },
+    {
+        "country": "Portugal",
+        "sector": "Households",
+        "value": 0.403087991640007
+    },
+    {
+        "country": "Portugal",
+        "sector": "Iron and steel",
+        "value": 0.711895600538433
+    },
+    {
+        "country": "Portugal",
+        "sector": "Metals",
+        "value": 0.31236892566067
+    },
+    {
+        "country": "Portugal",
+        "sector": "Minerals",
+        "value": 0.157792814030314
+    },
+    {
+        "country": "Portugal",
+        "sector": "Paper",
+        "value": 0.205112160588084
+    },
+    {
+        "country": "Portugal",
+        "sector": "Rail",
+        "value": 0.837247942977597
+    },
+    {
+        "country": "Portugal",
+        "sector": "Road",
+        "value": 0.000627286477808136
+    },
+    {
+        "country": "Portugal",
+        "sector": "Services",
+        "value": 0.583403742967142
+    },
+    {
+        "country": "Portugal",
+        "sector": "Textile",
+        "value": 0.373550839050773
+    },
+    {
+        "country": "Portugal",
+        "sector": "Total energy",
+        "value": 0.258759885823635
+    },
+    {
+        "country": "Portugal",
+        "sector": "Total industry",
+        "value": 0.325342230129193
+    },
+    {
+        "country": "Portugal",
+        "sector": "Transport",
+        "value": 0.00739169859749342
+    },
+    {
+        "country": "Portugal",
+        "sector": "Wood",
+        "value": 0.467011429397988
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Agriculture",
+        "value": 0.321690660219544
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Chemical",
+        "value": 0.517330075236319
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Food",
+        "value": 0.355949616120107
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Households",
+        "value": 0.424095899950395
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Iron and steel",
+        "value": 0.901566656813479
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Metals",
+        "value": 0.0
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Minerals",
+        "value": 0.116637174415085
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Paper",
+        "value": 0.65823055155107
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Rail",
+        "value": null
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Road",
+        "value": 0.000283603433732213
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Services",
+        "value": 0.682729289285972
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Textile",
+        "value": 0.894377299001576
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Total energy",
+        "value": 0.259541110847632
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Total industry",
+        "value": 0.199956035152673
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Transport",
+        "value": 0.000281601599570672
+    },
+    {
+        "country": "Cyprus",
+        "sector": "Wood",
+        "value": 0.826472374013357
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Agriculture",
+        "value": 0.120934674556002
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Chemical",
+        "value": 0.157611674026626
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Food",
+        "value": 0.390723510665413
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Households",
+        "value": 0.481523880954509
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Iron and steel",
+        "value": 0.537114015987678
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Metals",
+        "value": 0.529026904697133
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Minerals",
+        "value": 0.138432939897377
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Paper",
+        "value": 0.187871303651291
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Rail",
+        "value": 0.764684736223637
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Road",
+        "value": 0.0011812351953572
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Services",
+        "value": 0.538237858726252
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Textile",
+        "value": 0.486582838238702
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Total energy",
+        "value": 0.268049216353795
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Total industry",
+        "value": 0.30590939674036
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Transport",
+        "value": 0.0112599882133565
+    },
+    {
+        "country": "Bulgaria",
+        "sector": "Wood",
+        "value": 0.330249250779052
+    },
+    {
+        "country": "Greece",
+        "sector": "Agriculture",
+        "value": 0.694500715473444
+    },
+    {
+        "country": "Greece",
+        "sector": "Chemical",
+        "value": 0.181778139030809
+    },
+    {
+        "country": "Greece",
+        "sector": "Food",
+        "value": 0.339744907651043
+    },
+    {
+        "country": "Greece",
+        "sector": "Households",
+        "value": 0.330293176868225
+    },
+    {
+        "country": "Greece",
+        "sector": "Iron and steel",
+        "value": 0.665382747942284
+    },
+    {
+        "country": "Greece",
+        "sector": "Metals",
+        "value": 0.540057287426065
+    },
+    {
+        "country": "Greece",
+        "sector": "Minerals",
+        "value": 0.17547397485325
+    },
+    {
+        "country": "Greece",
+        "sector": "Paper",
+        "value": 0.505191068070816
+    },
+    {
+        "country": "Greece",
+        "sector": "Rail",
+        "value": 0.713726989250737
+    },
+    {
+        "country": "Greece",
+        "sector": "Road",
+        "value": 0.000335339151240282
+    },
+    {
+        "country": "Greece",
+        "sector": "Services",
+        "value": 0.705459394282538
+    },
+    {
+        "country": "Greece",
+        "sector": "Textile",
+        "value": 0.446084485333076
+    },
+    {
+        "country": "Greece",
+        "sector": "Total energy",
+        "value": 0.268724787543541
+    },
+    {
+        "country": "Greece",
+        "sector": "Total industry",
+        "value": 0.398591679627878
+    },
+    {
+        "country": "Greece",
+        "sector": "Transport",
+        "value": 0.00324121412742634
+    },
+    {
+        "country": "Greece",
+        "sector": "Wood",
+        "value": 0.262314676532053
+    },
+    {
+        "country": "France",
+        "sector": "Agriculture",
+        "value": 0.152717236377688
+    },
+    {
+        "country": "France",
+        "sector": "Chemical",
+        "value": 0.288089064661906
+    },
+    {
+        "country": "France",
+        "sector": "Food",
+        "value": 0.400587942135692
+    },
+    {
+        "country": "France",
+        "sector": "Households",
+        "value": 0.358857867775617
+    },
+    {
+        "country": "France",
+        "sector": "Iron and steel",
+        "value": 0.556773359858241
+    },
+    {
+        "country": "France",
+        "sector": "Metals",
+        "value": 0.721864370136742
+    },
+    {
+        "country": "France",
+        "sector": "Minerals",
+        "value": 0.183239666023313
+    },
+    {
+        "country": "France",
+        "sector": "Paper",
+        "value": 0.248776745758366
+    },
+    {
+        "country": "France",
+        "sector": "Rail",
+        "value": 0.852430107130913
+    },
+    {
+        "country": "France",
+        "sector": "Road",
+        "value": 0.00292717340741645
+    },
+    {
+        "country": "France",
+        "sector": "Services",
+        "value": 0.560649379558905
+    },
+    {
+        "country": "France",
+        "sector": "Textile",
+        "value": 0.479302932424011
+    },
+    {
+        "country": "France",
+        "sector": "Total energy",
+        "value": 0.268745803649089
+    },
+    {
+        "country": "France",
+        "sector": "Total industry",
+        "value": 0.365818196170174
+    },
+    {
+        "country": "France",
+        "sector": "Transport",
+        "value": 0.020907536093531
+    },
+    {
+        "country": "France",
+        "sector": "Wood",
+        "value": 0.276308492358604
+    },
+    {
+        "country": "Finland",
+        "sector": "Agriculture",
+        "value": 0.153587748366747
+    },
+    {
+        "country": "Finland",
+        "sector": "Chemical",
+        "value": 0.423095872390124
+    },
+    {
+        "country": "Finland",
+        "sector": "Food",
+        "value": 0.439051391826095
+    },
+    {
+        "country": "Finland",
+        "sector": "Households",
+        "value": 0.346093954947109
+    },
+    {
+        "country": "Finland",
+        "sector": "Iron and steel",
+        "value": 0.499160999570484
+    },
+    {
+        "country": "Finland",
+        "sector": "Metals",
+        "value": 0.68473082574157
+    },
+    {
+        "country": "Finland",
+        "sector": "Minerals",
+        "value": 0.219885538203974
+    },
+    {
+        "country": "Finland",
+        "sector": "Paper",
+        "value": 0.223387283390724
+    },
+    {
+        "country": "Finland",
+        "sector": "Rail",
+        "value": 0.752793014603748
+    },
+    {
+        "country": "Finland",
+        "sector": "Road",
+        "value": 0.00953534909662079
+    },
+    {
+        "country": "Finland",
+        "sector": "Services",
+        "value": 0.493180062714241
+    },
+    {
+        "country": "Finland",
+        "sector": "Textile",
+        "value": 0.482795246535944
+    },
+    {
+        "country": "Finland",
+        "sector": "Total energy",
+        "value": 0.285222413296497
+    },
+    {
+        "country": "Finland",
+        "sector": "Total industry",
+        "value": 0.306550869337475
+    },
+    {
+        "country": "Finland",
+        "sector": "Transport",
+        "value": 0.0243446886889493
+    },
+    {
+        "country": "Finland",
+        "sector": "Wood",
+        "value": 0.25012417335667
+    },
+    {
+        "country": "Sweden",
+        "sector": "Agriculture",
+        "value": 0.211105725911305
+    },
+    {
+        "country": "Sweden",
+        "sector": "Chemical",
+        "value": 0.540741509669792
+    },
+    {
+        "country": "Sweden",
+        "sector": "Food",
+        "value": 0.467645911662043
+    },
+    {
+        "country": "Sweden",
+        "sector": "Households",
+        "value": 0.494774676074236
+    },
+    {
+        "country": "Sweden",
+        "sector": "Iron and steel",
+        "value": 0.406986618800887
+    },
+    {
+        "country": "Sweden",
+        "sector": "Metals",
+        "value": 0.780634728207487
+    },
+    {
+        "country": "Sweden",
+        "sector": "Minerals",
+        "value": 0.220379900491655
+    },
+    {
+        "country": "Sweden",
+        "sector": "Paper",
+        "value": 0.249113238397662
+    },
+    {
+        "country": "Sweden",
+        "sector": "Rail",
+        "value": 0.944095357890223
+    },
+    {
+        "country": "Sweden",
+        "sector": "Road",
+        "value": 0.016019461989131
+    },
+    {
+        "country": "Sweden",
+        "sector": "Services",
+        "value": 0.631343752328131
+    },
+    {
+        "country": "Sweden",
+        "sector": "Textile",
+        "value": 0.687737455297065
+    },
+    {
+        "country": "Sweden",
+        "sector": "Total energy",
+        "value": 0.338317584397952
+    },
+    {
+        "country": "Sweden",
+        "sector": "Total industry",
+        "value": 0.350869413580824
+    },
+    {
+        "country": "Sweden",
+        "sector": "Transport",
+        "value": 0.0535348264335166
+    },
+    {
+        "country": "Sweden",
+        "sector": "Wood",
+        "value": 0.250270371549313
+    },
+    {
+        "country": "Malta",
+        "sector": "Agriculture",
+        "value": 0.0707792207792207
+    },
+    {
+        "country": "Malta",
+        "sector": "Chemical",
+        "value": 0.723597166615337
+    },
+    {
+        "country": "Malta",
+        "sector": "Food",
+        "value": 0.649932997472562
+    },
+    {
+        "country": "Malta",
+        "sector": "Households",
+        "value": 0.75642942122996
+    },
+    {
+        "country": "Malta",
+        "sector": "Iron and steel",
+        "value": 0.276785714285714
+    },
+    {
+        "country": "Malta",
+        "sector": "Metals",
+        "value": 1.0
+    },
+    {
+        "country": "Malta",
+        "sector": "Minerals",
+        "value": 0.139708383410054
+    },
+    {
+        "country": "Malta",
+        "sector": "Paper",
+        "value": 0.890852941854301
+    },
+    {
+        "country": "Malta",
+        "sector": "Rail",
+        "value": null
+    },
+    {
+        "country": "Malta",
+        "sector": "Road",
+        "value": 0.00382127571934144
+    },
+    {
+        "country": "Malta",
+        "sector": "Services",
+        "value": 0.759481979207269
+    },
+    {
+        "country": "Malta",
+        "sector": "Textile",
+        "value": 0.713398739276742
+    },
+    {
+        "country": "Malta",
+        "sector": "Total energy",
+        "value": 0.391637532378499
+    },
+    {
+        "country": "Malta",
+        "sector": "Total industry",
+        "value": 0.585198018593982
+    },
+    {
+        "country": "Malta",
+        "sector": "Transport",
+        "value": 0.00352108950346016
+    },
+    {
+        "country": "Malta",
+        "sector": "Wood",
+        "value": 0.962034927866362
+    },
+    {
+        "country": "Norway",
+        "sector": "Agriculture",
+        "value": 0.554593538670064
+    },
+    {
+        "country": "Norway",
+        "sector": "Chemical",
+        "value": 0.424823386928185
+    },
+    {
+        "country": "Norway",
+        "sector": "Food",
+        "value": 0.662347265113754
+    },
+    {
+        "country": "Norway",
+        "sector": "Households",
+        "value": 0.704707283304997
+    },
+    {
+        "country": "Norway",
+        "sector": "Iron and steel",
+        "value": 0.628257622717667
+    },
+    {
+        "country": "Norway",
+        "sector": "Metals",
+        "value": 0.966297736177656
+    },
+    {
+        "country": "Norway",
+        "sector": "Minerals",
+        "value": 0.237274785694479
+    },
+    {
+        "country": "Norway",
+        "sector": "Paper",
+        "value": 0.664317055228882
+    },
+    {
+        "country": "Norway",
+        "sector": "Rail",
+        "value": 0.788192109422094
+    },
+    {
+        "country": "Norway",
+        "sector": "Road",
+        "value": 0.0514456917095599
+    },
+    {
+        "country": "Norway",
+        "sector": "Services",
+        "value": 0.706194623577504
+    },
+    {
+        "country": "Norway",
+        "sector": "Textile",
+        "value": 0.796731918626967
+    },
+    {
+        "country": "Norway",
+        "sector": "Total energy",
+        "value": 0.499438847665514
+    },
+    {
+        "country": "Norway",
+        "sector": "Total industry",
+        "value": 0.640434881781012
+    },
+    {
+        "country": "Norway",
+        "sector": "Transport",
+        "value": 0.0484483907180601
+    },
+    {
+        "country": "Norway",
+        "sector": "Wood",
+        "value": 0.30414951224064
+    }
+]
