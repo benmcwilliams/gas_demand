@@ -1,20 +1,18 @@
 {
-    "categories": ["Solar Power <br> <i>(kW per capita)</i>", "Wind Power <br> <i>(kW per capita)</i>", "Electric Vehicles <br> <i>(per thousand people)</i>"],
-    "series": [
-        {
-            "name": "EU",
-            "data": [0.44, 0.42, 0.13],
-            "color": "#0080c7"
-        },
-        {
-            "name": "US",
-            "data": [0.33, 0.42, 0.09],
-            "color": "#417e3c"
-        },
-        {
-            "name": "China",
-            "data": [0.28, 0.25, 0.1],
-            "color": "#a21636"
-        }
-    ]
+  "categories": ["Solar PV (MW)", "Wind (MW)", "Electric Vehicles (00s)"],
+  "EU": {
+    "Solar PV (MW)": {"absolute": 257000, "perCapita": 574, "perGDP": 15343},
+    "Wind (MW)": {"absolute": 219000, "perCapita": 489, "perGDP": 13075},
+    "Electric Vehicles (00s)": {"absolute": 81000, "perCapita": 181, "perGDP": 4836}
+  },
+  "US": {
+    "Solar PV (MW)": {"absolute": 139000, "perCapita": 415, "perGDP": 5464},
+    "Wind (MW)": {"absolute": 148000, "perCapita": 442, "perGDP": 5818},
+    "Electric Vehicles (00s)": {"absolute": 48000, "perCapita": 143, "perGDP": 1887}
+  },
+  "China": {
+    "Solar PV (MW)": {"absolute": 610000, "perCapita": 428, "perGDP": 33964},
+    "Wind (MW)": {"absolute": 442000, "perCapita": 310, "perGDP": 24610},
+    "Electric Vehicles (00s)": {"absolute": 218000, "perCapita": 153, "perGDP": 12138}
+  }
 }
