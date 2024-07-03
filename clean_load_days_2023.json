@@ -1,0 +1,100 @@
+{
+    "countries": [
+        {
+            "name": "Sweden",
+            "total_hours_2023": 335
+        },
+        {
+            "name": "Norway",
+            "total_hours_2023": 282
+        },
+        {
+            "name": "France",
+            "total_hours_2023": 271
+        },
+        {
+            "name": "Slovakia",
+            "total_hours_2023": 138
+        },
+        {
+            "name": "Austria",
+            "total_hours_2023": 121
+        },
+        {
+            "name": "Denmark",
+            "total_hours_2023": 88
+        },
+        {
+            "name": "Latvia",
+            "total_hours_2023": 82
+        },
+        {
+            "name": "Finland",
+            "total_hours_2023": 56
+        },
+        {
+            "name": "Spain",
+            "total_hours_2023": 47
+        },
+        {
+            "name": "Bulgaria",
+            "total_hours_2023": 16
+        },
+        {
+            "name": "Romania",
+            "total_hours_2023": 15
+        },
+        {
+            "name": "Belgium",
+            "total_hours_2023": 14
+        },
+        {
+            "name": "Croatia",
+            "total_hours_2023": 11
+        },
+        {
+            "name": "Germany",
+            "total_hours_2023": 7
+        },
+        {
+            "name": "Greece",
+            "total_hours_2023": 1
+        },
+        {
+            "name": "Cyprus",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Czechia",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Estonia",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Hungary",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Italy",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Lithuania",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Luxembourg",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Netherlands",
+            "total_hours_2023": 0
+        },
+        {
+            "name": "Poland",
+            "total_hours_2023": 0
+        }
+    ]
+}
