@@ -1,0 +1,2114 @@
+{
+    "Austria": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 21.0
+            },
+            {
+                "name": "Feb",
+                "electric": 26.2
+            },
+            {
+                "name": "Mar",
+                "electric": 26.5
+            },
+            {
+                "name": "Apr",
+                "electric": 25.6
+            },
+            {
+                "name": "May",
+                "electric": 26.2
+            },
+            {
+                "name": "Jun",
+                "electric": 26.2
+            },
+            {
+                "name": "Jul",
+                "electric": 23.6
+            },
+            {
+                "name": "Aug",
+                "electric": 28.7
+            },
+            {
+                "name": "Sep",
+                "electric": 29.2
+            },
+            {
+                "name": "Oct",
+                "electric": 31.2
+            },
+            {
+                "name": "Nov",
+                "electric": 29.3
+            },
+            {
+                "name": "Dec",
+                "electric": 27.9
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 24.5
+            },
+            {
+                "name": "Feb",
+                "electric": 23.3
+            },
+            {
+                "name": "Mar",
+                "electric": 23.9
+            }
+        ]
+    },
+    "Belgium": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 32.5
+            },
+            {
+                "name": "Feb",
+                "electric": 31.3
+            },
+            {
+                "name": "Mar",
+                "electric": 34.6
+            },
+            {
+                "name": "Apr",
+                "electric": 35.8
+            },
+            {
+                "name": "May",
+                "electric": 38.9
+            },
+            {
+                "name": "Jun",
+                "electric": 40.3
+            },
+            {
+                "name": "Jul",
+                "electric": 30.2
+            },
+            {
+                "name": "Aug",
+                "electric": 48.6
+            },
+            {
+                "name": "Sep",
+                "electric": 45.7
+            },
+            {
+                "name": "Oct",
+                "electric": 46.3
+            },
+            {
+                "name": "Nov",
+                "electric": 49.0
+            },
+            {
+                "name": "Dec",
+                "electric": 46.3
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 47.1
+            },
+            {
+                "name": "Feb",
+                "electric": 40.6
+            },
+            {
+                "name": "Mar",
+                "electric": 42.2
+            }
+        ]
+    },
+    "Bulgaria": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 3.0
+            },
+            {
+                "name": "Feb",
+                "electric": 3.6
+            },
+            {
+                "name": "Mar",
+                "electric": 4.1
+            },
+            {
+                "name": "Apr",
+                "electric": 4.5
+            },
+            {
+                "name": "May",
+                "electric": 4.7
+            },
+            {
+                "name": "Jun",
+                "electric": 5.1
+            },
+            {
+                "name": "Jul",
+                "electric": 5.5
+            },
+            {
+                "name": "Aug",
+                "electric": 5.9
+            },
+            {
+                "name": "Sep",
+                "electric": 4.5
+            },
+            {
+                "name": "Oct",
+                "electric": 4.8
+            },
+            {
+                "name": "Nov",
+                "electric": 5.2
+            },
+            {
+                "name": "Dec",
+                "electric": 5.8
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 5.4
+            },
+            {
+                "name": "Feb",
+                "electric": 5.2
+            },
+            {
+                "name": "Mar",
+                "electric": 4.9
+            }
+        ]
+    },
+    "Croatia": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 8.1
+            },
+            {
+                "name": "Feb",
+                "electric": 6.4
+            },
+            {
+                "name": "Mar",
+                "electric": 5.1
+            },
+            {
+                "name": "Apr",
+                "electric": 3.7
+            },
+            {
+                "name": "May",
+                "electric": 2.8
+            },
+            {
+                "name": "Jun",
+                "electric": 3.0
+            },
+            {
+                "name": "Jul",
+                "electric": 4.2
+            },
+            {
+                "name": "Aug",
+                "electric": 6.5
+            },
+            {
+                "name": "Sep",
+                "electric": 5.6
+            },
+            {
+                "name": "Oct",
+                "electric": 6.3
+            },
+            {
+                "name": "Nov",
+                "electric": 6.4
+            },
+            {
+                "name": "Dec",
+                "electric": 5.8
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 4.5
+            },
+            {
+                "name": "Feb",
+                "electric": 3.2
+            },
+            {
+                "name": "Mar",
+                "electric": 3.3
+            }
+        ]
+    },
+    "Cyprus": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 8.7
+            },
+            {
+                "name": "Feb",
+                "electric": 6.1
+            },
+            {
+                "name": "Mar",
+                "electric": 6.5
+            },
+            {
+                "name": "Apr",
+                "electric": 4.9
+            },
+            {
+                "name": "May",
+                "electric": 4.6
+            },
+            {
+                "name": "Jun",
+                "electric": 8.7
+            },
+            {
+                "name": "Jul",
+                "electric": 7.1
+            },
+            {
+                "name": "Aug",
+                "electric": 9.1
+            },
+            {
+                "name": "Sep",
+                "electric": 9.4
+            },
+            {
+                "name": "Oct",
+                "electric": 11.8
+            },
+            {
+                "name": "Nov",
+                "electric": 14.1
+            },
+            {
+                "name": "Dec",
+                "electric": 10.9
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 8.7
+            },
+            {
+                "name": "Feb",
+                "electric": 10.2
+            },
+            {
+                "name": "Mar",
+                "electric": 15.4
+            }
+        ]
+    },
+    "Czechia": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 5.4
+            },
+            {
+                "name": "Feb",
+                "electric": 4.0
+            },
+            {
+                "name": "Mar",
+                "electric": 4.5
+            },
+            {
+                "name": "Apr",
+                "electric": 4.6
+            },
+            {
+                "name": "May",
+                "electric": 4.7
+            },
+            {
+                "name": "Jun",
+                "electric": 5.5
+            },
+            {
+                "name": "Jul",
+                "electric": 4.2
+            },
+            {
+                "name": "Aug",
+                "electric": 5.9
+            },
+            {
+                "name": "Sep",
+                "electric": 5.5
+            },
+            {
+                "name": "Oct",
+                "electric": 7.1
+            },
+            {
+                "name": "Nov",
+                "electric": 6.2
+            },
+            {
+                "name": "Dec",
+                "electric": 6.2
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 5.5
+            },
+            {
+                "name": "Feb",
+                "electric": 4.6
+            },
+            {
+                "name": "Mar",
+                "electric": 4.6
+            }
+        ]
+    },
+    "Denmark": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 28.8
+            },
+            {
+                "name": "Feb",
+                "electric": 37.3
+            },
+            {
+                "name": "Mar",
+                "electric": 47.2
+            },
+            {
+                "name": "Apr",
+                "electric": 41.4
+            },
+            {
+                "name": "May",
+                "electric": 42.5
+            },
+            {
+                "name": "Jun",
+                "electric": 47.1
+            },
+            {
+                "name": "Jul",
+                "electric": 47.9
+            },
+            {
+                "name": "Aug",
+                "electric": 44.4
+            },
+            {
+                "name": "Sep",
+                "electric": 51.4
+            },
+            {
+                "name": "Oct",
+                "electric": 47.1
+            },
+            {
+                "name": "Nov",
+                "electric": 52.1
+            },
+            {
+                "name": "Dec",
+                "electric": 60.4
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 39.5
+            },
+            {
+                "name": "Feb",
+                "electric": 49.0
+            },
+            {
+                "name": "Mar",
+                "electric": 47.1
+            }
+        ]
+    },
+    "EU": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 16.5
+            },
+            {
+                "name": "Feb",
+                "electric": 19.3
+            },
+            {
+                "name": "Mar",
+                "electric": 21.1
+            },
+            {
+                "name": "Apr",
+                "electric": 19.2
+            },
+            {
+                "name": "May",
+                "electric": 21.2
+            },
+            {
+                "name": "Jun",
+                "electric": 23.1
+            },
+            {
+                "name": "Jul",
+                "electric": 20.5
+            },
+            {
+                "name": "Aug",
+                "electric": 28.4
+            },
+            {
+                "name": "Sep",
+                "electric": 23.0
+            },
+            {
+                "name": "Oct",
+                "electric": 22.7
+            },
+            {
+                "name": "Nov",
+                "electric": 24.4
+            },
+            {
+                "name": "Dec",
+                "electric": 26.8
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 18.7
+            },
+            {
+                "name": "Feb",
+                "electric": 19.3
+            },
+            {
+                "name": "Mar",
+                "electric": 20.1
+            }
+        ]
+    },
+    "Estonia": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 5.1
+            },
+            {
+                "name": "Feb",
+                "electric": 6.4
+            },
+            {
+                "name": "Mar",
+                "electric": 8.0
+            },
+            {
+                "name": "Apr",
+                "electric": 7.4
+            },
+            {
+                "name": "May",
+                "electric": 8.9
+            },
+            {
+                "name": "Jun",
+                "electric": 8.8
+            },
+            {
+                "name": "Jul",
+                "electric": 8.8
+            },
+            {
+                "name": "Aug",
+                "electric": 10.0
+            },
+            {
+                "name": "Sep",
+                "electric": 11.1
+            },
+            {
+                "name": "Oct",
+                "electric": 12.1
+            },
+            {
+                "name": "Nov",
+                "electric": 9.2
+            },
+            {
+                "name": "Dec",
+                "electric": 9.8
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 12.1
+            },
+            {
+                "name": "Feb",
+                "electric": 10.3
+            },
+            {
+                "name": "Mar",
+                "electric": 9.4
+            }
+        ]
+    },
+    "Finland": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 44.0
+            },
+            {
+                "name": "Feb",
+                "electric": 49.3
+            },
+            {
+                "name": "Mar",
+                "electric": 55.4
+            },
+            {
+                "name": "Apr",
+                "electric": 55.0
+            },
+            {
+                "name": "May",
+                "electric": 51.6
+            },
+            {
+                "name": "Jun",
+                "electric": 52.5
+            },
+            {
+                "name": "Jul",
+                "electric": 44.3
+            },
+            {
+                "name": "Aug",
+                "electric": 58.5
+            },
+            {
+                "name": "Sep",
+                "electric": 59.1
+            },
+            {
+                "name": "Oct",
+                "electric": 58.7
+            },
+            {
+                "name": "Nov",
+                "electric": 56.4
+            },
+            {
+                "name": "Dec",
+                "electric": 62.2
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 47.5
+            },
+            {
+                "name": "Feb",
+                "electric": 47.8
+            },
+            {
+                "name": "Mar",
+                "electric": 50.2
+            }
+        ]
+    },
+    "France": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 22.3
+            },
+            {
+                "name": "Feb",
+                "electric": 23.8
+            },
+            {
+                "name": "Mar",
+                "electric": 25.4
+            },
+            {
+                "name": "Apr",
+                "electric": 21.1
+            },
+            {
+                "name": "May",
+                "electric": 24.3
+            },
+            {
+                "name": "Jun",
+                "electric": 26.8
+            },
+            {
+                "name": "Jul",
+                "electric": 18.8
+            },
+            {
+                "name": "Aug",
+                "electric": 25.7
+            },
+            {
+                "name": "Sep",
+                "electric": 29.3
+            },
+            {
+                "name": "Oct",
+                "electric": 26.5
+            },
+            {
+                "name": "Nov",
+                "electric": 29.7
+            },
+            {
+                "name": "Dec",
+                "electric": 30.1
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 25.0
+            },
+            {
+                "name": "Feb",
+                "electric": 26.3
+            },
+            {
+                "name": "Mar",
+                "electric": 27.9
+            }
+        ]
+    },
+    "Germany": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 15.1
+            },
+            {
+                "name": "Feb",
+                "electric": 21.5
+            },
+            {
+                "name": "Mar",
+                "electric": 21.6
+            },
+            {
+                "name": "Apr",
+                "electric": 20.5
+            },
+            {
+                "name": "May",
+                "electric": 22.9
+            },
+            {
+                "name": "Jun",
+                "electric": 24.6
+            },
+            {
+                "name": "Jul",
+                "electric": 29.8
+            },
+            {
+                "name": "Aug",
+                "electric": 37.0
+            },
+            {
+                "name": "Sep",
+                "electric": 21.0
+            },
+            {
+                "name": "Oct",
+                "electric": 24.5
+            },
+            {
+                "name": "Nov",
+                "electric": 25.7
+            },
+            {
+                "name": "Dec",
+                "electric": 30.0
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 17.3
+            },
+            {
+                "name": "Feb",
+                "electric": 19.3
+            },
+            {
+                "name": "Mar",
+                "electric": 18.0
+            }
+        ]
+    },
+    "Greece": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 6.8
+            },
+            {
+                "name": "Feb",
+                "electric": 9.0
+            },
+            {
+                "name": "Mar",
+                "electric": 11.6
+            },
+            {
+                "name": "Apr",
+                "electric": 8.8
+            },
+            {
+                "name": "May",
+                "electric": 11.2
+            },
+            {
+                "name": "Jun",
+                "electric": 9.9
+            },
+            {
+                "name": "Jul",
+                "electric": 7.5
+            },
+            {
+                "name": "Aug",
+                "electric": 10.0
+            },
+            {
+                "name": "Sep",
+                "electric": 16.2
+            },
+            {
+                "name": "Oct",
+                "electric": 13.7
+            },
+            {
+                "name": "Nov",
+                "electric": 13.8
+            },
+            {
+                "name": "Dec",
+                "electric": 15.1
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 9.8
+            },
+            {
+                "name": "Feb",
+                "electric": 9.7
+            },
+            {
+                "name": "Mar",
+                "electric": 9.9
+            }
+        ]
+    },
+    "Hungary": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 8.9
+            },
+            {
+                "name": "Feb",
+                "electric": 12.3
+            },
+            {
+                "name": "Mar",
+                "electric": 9.9
+            },
+            {
+                "name": "Apr",
+                "electric": 9.7
+            },
+            {
+                "name": "May",
+                "electric": 10.1
+            },
+            {
+                "name": "Jun",
+                "electric": 8.7
+            },
+            {
+                "name": "Jul",
+                "electric": 8.5
+            },
+            {
+                "name": "Aug",
+                "electric": 11.0
+            },
+            {
+                "name": "Sep",
+                "electric": 9.8
+            },
+            {
+                "name": "Oct",
+                "electric": 12.8
+            },
+            {
+                "name": "Nov",
+                "electric": 11.6
+            },
+            {
+                "name": "Dec",
+                "electric": 10.6
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 10.2
+            },
+            {
+                "name": "Feb",
+                "electric": 12.0
+            },
+            {
+                "name": "Mar",
+                "electric": 12.9
+            }
+        ]
+    },
+    "Iceland": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 42.1
+            },
+            {
+                "name": "Feb",
+                "electric": 69.7
+            },
+            {
+                "name": "Mar",
+                "electric": 60.2
+            },
+            {
+                "name": "Apr",
+                "electric": 41.4
+            },
+            {
+                "name": "May",
+                "electric": 44.8
+            },
+            {
+                "name": "Jun",
+                "electric": 44.2
+            },
+            {
+                "name": "Jul",
+                "electric": 62.4
+            },
+            {
+                "name": "Aug",
+                "electric": 70.4
+            },
+            {
+                "name": "Sep",
+                "electric": 80.9
+            },
+            {
+                "name": "Oct",
+                "electric": 79.3
+            },
+            {
+                "name": "Nov",
+                "electric": 88.7
+            },
+            {
+                "name": "Dec",
+                "electric": 89.6
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 56.7
+            },
+            {
+                "name": "Feb",
+                "electric": 48.6
+            },
+            {
+                "name": "Mar",
+                "electric": 50.6
+            }
+        ]
+    },
+    "Ireland": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 20.6
+            },
+            {
+                "name": "Feb",
+                "electric": 25.9
+            },
+            {
+                "name": "Mar",
+                "electric": 27.7
+            },
+            {
+                "name": "Apr",
+                "electric": 30.3
+            },
+            {
+                "name": "May",
+                "electric": 31.7
+            },
+            {
+                "name": "Jun",
+                "electric": 51.7
+            },
+            {
+                "name": "Jul",
+                "electric": 20.7
+            },
+            {
+                "name": "Aug",
+                "electric": 34.4
+            },
+            {
+                "name": "Sep",
+                "electric": 38.6
+            },
+            {
+                "name": "Oct",
+                "electric": 39.7
+            },
+            {
+                "name": "Nov",
+                "electric": 45.4
+            },
+            {
+                "name": "Dec",
+                "electric": 70.7
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 21.2
+            },
+            {
+                "name": "Feb",
+                "electric": 18.9
+            },
+            {
+                "name": "Mar",
+                "electric": 22.4
+            }
+        ]
+    },
+    "Italy": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 7.3
+            },
+            {
+                "name": "Feb",
+                "electric": 8.0
+            },
+            {
+                "name": "Mar",
+                "electric": 9.2
+            },
+            {
+                "name": "Apr",
+                "electric": 7.9
+            },
+            {
+                "name": "May",
+                "electric": 8.5
+            },
+            {
+                "name": "Jun",
+                "electric": 9.8
+            },
+            {
+                "name": "Jul",
+                "electric": 7.5
+            },
+            {
+                "name": "Aug",
+                "electric": 9.3
+            },
+            {
+                "name": "Sep",
+                "electric": 7.6
+            },
+            {
+                "name": "Oct",
+                "electric": 8.3
+            },
+            {
+                "name": "Nov",
+                "electric": 9.8
+            },
+            {
+                "name": "Dec",
+                "electric": 10.2
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 5.0
+            },
+            {
+                "name": "Feb",
+                "electric": 6.6
+            },
+            {
+                "name": "Mar",
+                "electric": 6.8
+            }
+        ]
+    },
+    "Latvia": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 14.8
+            },
+            {
+                "name": "Feb",
+                "electric": 8.6
+            },
+            {
+                "name": "Mar",
+                "electric": 12.1
+            },
+            {
+                "name": "Apr",
+                "electric": 12.5
+            },
+            {
+                "name": "May",
+                "electric": 12.0
+            },
+            {
+                "name": "Jun",
+                "electric": 11.3
+            },
+            {
+                "name": "Jul",
+                "electric": 9.1
+            },
+            {
+                "name": "Aug",
+                "electric": 9.9
+            },
+            {
+                "name": "Sep",
+                "electric": 13.9
+            },
+            {
+                "name": "Oct",
+                "electric": 11.2
+            },
+            {
+                "name": "Nov",
+                "electric": 11.8
+            },
+            {
+                "name": "Dec",
+                "electric": 10.9
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 9.8
+            },
+            {
+                "name": "Feb",
+                "electric": 8.5
+            },
+            {
+                "name": "Mar",
+                "electric": 10.4
+            }
+        ]
+    },
+    "Lithuania": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 8.2
+            },
+            {
+                "name": "Feb",
+                "electric": 5.0
+            },
+            {
+                "name": "Mar",
+                "electric": 5.5
+            },
+            {
+                "name": "Apr",
+                "electric": 8.2
+            },
+            {
+                "name": "May",
+                "electric": 8.2
+            },
+            {
+                "name": "Jun",
+                "electric": 6.3
+            },
+            {
+                "name": "Jul",
+                "electric": 6.8
+            },
+            {
+                "name": "Aug",
+                "electric": 6.6
+            },
+            {
+                "name": "Sep",
+                "electric": 7.9
+            },
+            {
+                "name": "Oct",
+                "electric": 11.5
+            },
+            {
+                "name": "Nov",
+                "electric": 7.0
+            },
+            {
+                "name": "Dec",
+                "electric": 10.0
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 5.9
+            },
+            {
+                "name": "Feb",
+                "electric": 5.3
+            },
+            {
+                "name": "Mar",
+                "electric": 10.0
+            }
+        ]
+    },
+    "Luxembourg": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 26.9
+            },
+            {
+                "name": "Feb",
+                "electric": 27.9
+            },
+            {
+                "name": "Mar",
+                "electric": 29.7
+            },
+            {
+                "name": "Apr",
+                "electric": 27.9
+            },
+            {
+                "name": "May",
+                "electric": 30.2
+            },
+            {
+                "name": "Jun",
+                "electric": 33.8
+            },
+            {
+                "name": "Jul",
+                "electric": 29.7
+            },
+            {
+                "name": "Aug",
+                "electric": 37.2
+            },
+            {
+                "name": "Sep",
+                "electric": 36.4
+            },
+            {
+                "name": "Oct",
+                "electric": 39.6
+            },
+            {
+                "name": "Nov",
+                "electric": 32.9
+            },
+            {
+                "name": "Dec",
+                "electric": 35.7
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 32.3
+            },
+            {
+                "name": "Feb",
+                "electric": 30.9
+            },
+            {
+                "name": "Mar",
+                "electric": 34.6
+            }
+        ]
+    },
+    "Malta": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 35.4
+            },
+            {
+                "name": "Feb",
+                "electric": 35.7
+            },
+            {
+                "name": "Mar",
+                "electric": 34.3
+            },
+            {
+                "name": "Apr",
+                "electric": 34.6
+            },
+            {
+                "name": "May",
+                "electric": 31.8
+            },
+            {
+                "name": "Jun",
+                "electric": 25.6
+            },
+            {
+                "name": "Jul",
+                "electric": 32.9
+            },
+            {
+                "name": "Aug",
+                "electric": 24.5
+            },
+            {
+                "name": "Sep",
+                "electric": 27.5
+            },
+            {
+                "name": "Oct",
+                "electric": 26.1
+            },
+            {
+                "name": "Nov",
+                "electric": 26.0
+            },
+            {
+                "name": "Dec",
+                "electric": 29.8
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 32.7
+            },
+            {
+                "name": "Feb",
+                "electric": 29.2
+            },
+            {
+                "name": "Mar",
+                "electric": 25.9
+            }
+        ]
+    },
+    "Netherlands": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 27.7
+            },
+            {
+                "name": "Feb",
+                "electric": 39.6
+            },
+            {
+                "name": "Mar",
+                "electric": 49.2
+            },
+            {
+                "name": "Apr",
+                "electric": 40.7
+            },
+            {
+                "name": "May",
+                "electric": 46.1
+            },
+            {
+                "name": "Jun",
+                "electric": 45.9
+            },
+            {
+                "name": "Jul",
+                "electric": 33.4
+            },
+            {
+                "name": "Aug",
+                "electric": 45.2
+            },
+            {
+                "name": "Sep",
+                "electric": 47.0
+            },
+            {
+                "name": "Oct",
+                "electric": 41.4
+            },
+            {
+                "name": "Nov",
+                "electric": 45.1
+            },
+            {
+                "name": "Dec",
+                "electric": 50.6
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 39.7
+            },
+            {
+                "name": "Feb",
+                "electric": 41.4
+            },
+            {
+                "name": "Mar",
+                "electric": 48.5
+            }
+        ]
+    },
+    "Norway": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 76.3
+            },
+            {
+                "name": "Feb",
+                "electric": 90.1
+            },
+            {
+                "name": "Mar",
+                "electric": 91.1
+            },
+            {
+                "name": "Apr",
+                "electric": 91.1
+            },
+            {
+                "name": "May",
+                "electric": 88.9
+            },
+            {
+                "name": "Jun",
+                "electric": 90.9
+            },
+            {
+                "name": "Jul",
+                "electric": 93.5
+            },
+            {
+                "name": "Aug",
+                "electric": 90.0
+            },
+            {
+                "name": "Sep",
+                "electric": 93.0
+            },
+            {
+                "name": "Oct",
+                "electric": 91.3
+            },
+            {
+                "name": "Nov",
+                "electric": 90.6
+            },
+            {
+                "name": "Dec",
+                "electric": 89.6
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 93.9
+            },
+            {
+                "name": "Feb",
+                "electric": 92.1
+            },
+            {
+                "name": "Mar",
+                "electric": 91.5
+            }
+        ]
+    },
+    "Poland": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 5.0
+            },
+            {
+                "name": "Feb",
+                "electric": 5.4
+            },
+            {
+                "name": "Mar",
+                "electric": 6.5
+            },
+            {
+                "name": "Apr",
+                "electric": 6.7
+            },
+            {
+                "name": "May",
+                "electric": 6.6
+            },
+            {
+                "name": "Jun",
+                "electric": 7.4
+            },
+            {
+                "name": "Jul",
+                "electric": 5.1
+            },
+            {
+                "name": "Aug",
+                "electric": 5.8
+            },
+            {
+                "name": "Sep",
+                "electric": 5.6
+            },
+            {
+                "name": "Oct",
+                "electric": 6.1
+            },
+            {
+                "name": "Nov",
+                "electric": 7.2
+            },
+            {
+                "name": "Dec",
+                "electric": 7.1
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 5.1
+            },
+            {
+                "name": "Feb",
+                "electric": 5.8
+            },
+            {
+                "name": "Mar",
+                "electric": 6.2
+            }
+        ]
+    },
+    "Portugal": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 26.2
+            },
+            {
+                "name": "Feb",
+                "electric": 27.0
+            },
+            {
+                "name": "Mar",
+                "electric": 26.6
+            },
+            {
+                "name": "Apr",
+                "electric": 24.3
+            },
+            {
+                "name": "May",
+                "electric": 28.7
+            },
+            {
+                "name": "Jun",
+                "electric": 26.5
+            },
+            {
+                "name": "Jul",
+                "electric": 24.4
+            },
+            {
+                "name": "Aug",
+                "electric": 40.3
+            },
+            {
+                "name": "Sep",
+                "electric": 37.4
+            },
+            {
+                "name": "Oct",
+                "electric": 36.5
+            },
+            {
+                "name": "Nov",
+                "electric": 43.2
+            },
+            {
+                "name": "Dec",
+                "electric": 39.9
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 29.6
+            },
+            {
+                "name": "Feb",
+                "electric": 28.8
+            },
+            {
+                "name": "Mar",
+                "electric": 27.6
+            }
+        ]
+    },
+    "Romania": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 8.7
+            },
+            {
+                "name": "Feb",
+                "electric": 8.4
+            },
+            {
+                "name": "Mar",
+                "electric": 8.4
+            },
+            {
+                "name": "Apr",
+                "electric": 8.9
+            },
+            {
+                "name": "May",
+                "electric": 10.3
+            },
+            {
+                "name": "Jun",
+                "electric": 12.0
+            },
+            {
+                "name": "Jul",
+                "electric": 14.7
+            },
+            {
+                "name": "Aug",
+                "electric": 12.5
+            },
+            {
+                "name": "Sep",
+                "electric": 10.9
+            },
+            {
+                "name": "Oct",
+                "electric": 9.9
+            },
+            {
+                "name": "Nov",
+                "electric": 10.8
+            },
+            {
+                "name": "Dec",
+                "electric": 11.2
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 12.8
+            },
+            {
+                "name": "Feb",
+                "electric": 9.8
+            },
+            {
+                "name": "Mar",
+                "electric": 7.2
+            }
+        ]
+    },
+    "Slovakia": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 3.7
+            },
+            {
+                "name": "Feb",
+                "electric": 3.3
+            },
+            {
+                "name": "Mar",
+                "electric": 4.8
+            },
+            {
+                "name": "Apr",
+                "electric": 5.2
+            },
+            {
+                "name": "May",
+                "electric": 7.5
+            },
+            {
+                "name": "Jun",
+                "electric": 5.9
+            },
+            {
+                "name": "Jul",
+                "electric": 3.3
+            },
+            {
+                "name": "Aug",
+                "electric": 6.3
+            },
+            {
+                "name": "Sep",
+                "electric": 9.0
+            },
+            {
+                "name": "Oct",
+                "electric": 6.9
+            },
+            {
+                "name": "Nov",
+                "electric": 6.9
+            },
+            {
+                "name": "Dec",
+                "electric": 7.3
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 5.8
+            },
+            {
+                "name": "Feb",
+                "electric": 4.6
+            },
+            {
+                "name": "Mar",
+                "electric": 4.9
+            }
+        ]
+    },
+    "Slovenia": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 9.1
+            },
+            {
+                "name": "Feb",
+                "electric": 8.4
+            },
+            {
+                "name": "Mar",
+                "electric": 12.8
+            },
+            {
+                "name": "Apr",
+                "electric": 9.0
+            },
+            {
+                "name": "May",
+                "electric": 9.3
+            },
+            {
+                "name": "Jun",
+                "electric": 9.6
+            },
+            {
+                "name": "Jul",
+                "electric": 8.7
+            },
+            {
+                "name": "Aug",
+                "electric": 13.9
+            },
+            {
+                "name": "Sep",
+                "electric": 11.0
+            },
+            {
+                "name": "Oct",
+                "electric": 12.4
+            },
+            {
+                "name": "Nov",
+                "electric": 12.1
+            },
+            {
+                "name": "Dec",
+                "electric": 13.9
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 9.1
+            },
+            {
+                "name": "Feb",
+                "electric": 9.2
+            },
+            {
+                "name": "Mar",
+                "electric": 8.5
+            }
+        ]
+    },
+    "Spain": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 11.2
+            },
+            {
+                "name": "Feb",
+                "electric": 11.0
+            },
+            {
+                "name": "Mar",
+                "electric": 10.3
+            },
+            {
+                "name": "Apr",
+                "electric": 10.4
+            },
+            {
+                "name": "May",
+                "electric": 11.3
+            },
+            {
+                "name": "Jun",
+                "electric": 11.8
+            },
+            {
+                "name": "Jul",
+                "electric": 8.7
+            },
+            {
+                "name": "Aug",
+                "electric": 12.4
+            },
+            {
+                "name": "Sep",
+                "electric": 12.6
+            },
+            {
+                "name": "Oct",
+                "electric": 12.9
+            },
+            {
+                "name": "Nov",
+                "electric": 14.8
+            },
+            {
+                "name": "Dec",
+                "electric": 15.2
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 11.6
+            },
+            {
+                "name": "Feb",
+                "electric": 11.5
+            },
+            {
+                "name": "Mar",
+                "electric": 5.0
+            }
+        ]
+    },
+    "Sweden": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 52.1
+            },
+            {
+                "name": "Feb",
+                "electric": 54.0
+            },
+            {
+                "name": "Mar",
+                "electric": 59.9
+            },
+            {
+                "name": "Apr",
+                "electric": 55.8
+            },
+            {
+                "name": "May",
+                "electric": 61.9
+            },
+            {
+                "name": "Jun",
+                "electric": 59.2
+            },
+            {
+                "name": "Jul",
+                "electric": 62.0
+            },
+            {
+                "name": "Aug",
+                "electric": 60.1
+            },
+            {
+                "name": "Sep",
+                "electric": 63.4
+            },
+            {
+                "name": "Oct",
+                "electric": 60.6
+            },
+            {
+                "name": "Nov",
+                "electric": 60.5
+            },
+            {
+                "name": "Dec",
+                "electric": 63.1
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 52.5
+            },
+            {
+                "name": "Feb",
+                "electric": 51.8
+            },
+            {
+                "name": "Mar",
+                "electric": 37.2
+            }
+        ]
+    },
+    "Switzerland": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 25.7
+            },
+            {
+                "name": "Feb",
+                "electric": 23.4
+            },
+            {
+                "name": "Mar",
+                "electric": 27.6
+            },
+            {
+                "name": "Apr",
+                "electric": 26.5
+            },
+            {
+                "name": "May",
+                "electric": 27.8
+            },
+            {
+                "name": "Jun",
+                "electric": 29.9
+            },
+            {
+                "name": "Jul",
+                "electric": 27.1
+            },
+            {
+                "name": "Aug",
+                "electric": 31.6
+            },
+            {
+                "name": "Sep",
+                "electric": 33.5
+            },
+            {
+                "name": "Oct",
+                "electric": 32.3
+            },
+            {
+                "name": "Nov",
+                "electric": 31.4
+            },
+            {
+                "name": "Dec",
+                "electric": 37.2
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 25.9
+            },
+            {
+                "name": "Feb",
+                "electric": 26.5
+            },
+            {
+                "name": "Mar",
+                "electric": 28.8
+            }
+        ]
+    },
+    "UK": {
+        "2023": [
+            {
+                "name": "Jan",
+                "electric": 20.0
+            },
+            {
+                "name": "Feb",
+                "electric": 22.9
+            },
+            {
+                "name": "Mar",
+                "electric": 22.4
+            },
+            {
+                "name": "Apr",
+                "electric": 21.9
+            },
+            {
+                "name": "May",
+                "electric": 23.1
+            },
+            {
+                "name": "Jun",
+                "electric": 25.1
+            },
+            {
+                "name": "Jul",
+                "electric": 20.5
+            },
+            {
+                "name": "Aug",
+                "electric": 27.8
+            },
+            {
+                "name": "Sep",
+                "electric": 23.4
+            },
+            {
+                "name": "Oct",
+                "electric": 24.9
+            },
+            {
+                "name": "Nov",
+                "electric": 25.7
+            },
+            {
+                "name": "Dec",
+                "electric": 28.4
+            }
+        ],
+        "2024": [
+            {
+                "name": "Jan",
+                "electric": 23.0
+            },
+            {
+                "name": "Feb",
+                "electric": 24.8
+            },
+            {
+                "name": "Mar",
+                "electric": 22.9
+            }
+        ]
+    }
+}
